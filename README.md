@@ -3,24 +3,6 @@
 A full-stack **Blog Publishing Platform** built with the **MERN stack** (MongoDB, Express, React, Node.js).  
 The platform allows users to **authenticate, create posts, interact (likes, comments, bookmarks), and manage profiles** with a sleek UI and **dark mode support**.  
 
----
-
-## 📸 Screenshots  
-
-### 🔐 Auth Page  
-![Auth](./screenshots/auth.png)  
-
-### 🏡 Feed Page  
-![Feed](./screenshots/feed.png)  
-
-### ✍️ Create Post  
-![Create](./screenshots/create.png)  
-
-### 🌗 Dark Mode  
-![Dark](./screenshots/dark.png)  
-
----
-
 ## 🚀 Features  
 
 - 🔐 Google OAuth login  
@@ -156,9 +138,3 @@ This project was built with the assistance of **AI tools (ChatGPT, Copilot, Curs
 2. Create branch `feature/xyz`  
 3. Commit changes  
 4. Push and open PR  
-
----
-
-## 📜 License  
-
-MIT License © 2025 MittarvBlog  
